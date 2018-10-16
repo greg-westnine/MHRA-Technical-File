@@ -1,6 +1,11 @@
-﻿,Subregister of controlled documents relevent to the Open Voice Factory ,,
-,Master list of controlled documents availible from eQuality Time on request ,,
-Name,Filename,Reference ,Location 
-OVF Risk Assessment,OVF.risk_.assessment.xlsx,https://github.com/joereddington-public/MHRA-Technical-File/blob/master/OVF.risk_.assessment.xlsx,https://github.com/joereddington-public/MHRA-Technical-File/blob/master/OVF.risk_.assessment.xlsx
-eQT Document Management Policty ,Document.Management.Policy.docx,,
-OVF Device Description,Device.Description.docx,,
+Subregister of controlled documents relevent to the Open Voice Factory ,,,,,
+Master list of controlled documents availible from eQuality Time on request ,,,,,
+,,,,,
+Name,Filename,Reference ,Version,Status,Location 
+Quality Manual,Quality.Manual.docx,1001,V0.1,Draft,
+eQT Document Management Policy,Document.Management.Policy.docx,1001,V1.2,Draft,
+OVF Device Description,Device.Description.docx,1002,,,
+OVF Declaration of Conformity,OVF.declaration.of.conformity.docx,1003,V0.1,Draft,
+OVF Risk Plan,OVF.risk.plan.docx,1004,V1.0,Approved,
+OVF Statement of Essential Principles,OVF.statement.of.essential.principles.docx,1005,V0.1,Draft,
+OVF Risk Assessment,OVF.risk_.assessment.xlsx,1006,V0.6,Draft,https://github.com/joereddington-public/MHRA-Technical-File/blob/master/OVF.risk_.assessment.xlsx
